@@ -1,1 +1,233 @@
-# kaka 基于HUST程序设计的作业答案参考
+# kaka 基于HUST 25级程序设计的某些作业答案参考（新手水题）https://pintia.cn
+HOMEWORK 1
+
+任务描述
+本题目要求读入1个10进制正整数，然后分别以8进制和16进制形式输出。输出时不加前缀，其中以16进制形式输出数据时所有字母数字小写。
+
+输入格式:
+输入只有一行，1个10进制正整数。
+
+输出格式:
+在一行中输出两个值，中间以1个空格分隔。
+
+输入样例:
+127
+输出样例:
+177 7f
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    int a;
+    scanf("%d",&a);
+    printf("%o %x",a,a);
+    return 0;
+}
+
+从键盘分别输入一个char型、int型和double型变量的值。在每一行先输出变量的值，再输出该变量所占内存的字节数。
+
+输入格式:
+在一行内分别输入一个字符、整数和实数，数据间以空格分隔。
+
+输出格式:
+第一行：输出字符变量的值和该变量所占内存的字节数，中间以逗号分隔。
+第二行：输出整型变量的值和该变量所占内存的字节数，中间以逗号分隔。
+第三行：输出实型变量的值和该变量所占内存的字节数，中间以逗号分隔。
+参考下面输出样例。
+
+输入样例:
+B 13 56.8
+输出样例:
+B,1
+13,4
+56.800000,8
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    char a;
+    int b;
+    double c;
+    scanf("%c%d%lf",&a,&b,&c);
+    printf("%c,%zu\n""%d,%zu\n""%06f,%zu",a,sizeof(a),b,sizeof(b),c,sizeof(c));
+    return 0;
+}
+
+HOMEWORK 2
+
+计算两个整数A和B的乘积（-50000 ≤ A, B ≤ 50000）。
+
+输入格式:
+输入为一行，包括两个整数A和B。A与B以空格分隔。
+
+输出格式:
+输出A和B的乘积
+
+输入样例:
+2 6
+输出样例:
+12
+
+#include<stdio.h>
+int main()
+{
+    long long A;
+    long long B;
+    scanf("%lld %lld",&A,&B);
+    printf("%lld",A*B);
+    return 0;
+}
+
+
+7-24 利用边长求三角形面积
+分数 3
+作者 cjyoleon
+单位 哈尔滨理工大学
+公元前60年，古希腊工程师海伦在《度量论》中首次证明了一个利用三角形三边边长求得三角形面积的海伦公式（我国古代数学家秦九韶在《数书九章》（1247年）独立提出等价的三斜求积术）：
+
+三角形面积= 
+s(s−a)(s−b)(s−c)
+​
+ 
+
+其中a、b、c分别为三角形三边的边长；
+
+s= 
+2
+1
+​
+ (a+b+c)
+
+注：c语言中，可以用如下方式求x的平方根：
+
+sqrt(x);
+其中sqrt是用来计算平方根的函数。例如：
+
+double x = 5.6;
+double r = sqrt(x);
+printf("%f\n", r);
+以上代码执行后，x（double类型）的平方根被赋值给变量r。
+
+或者：
+
+double x = 5.6;
+printf("%f\n", sqrt(x));
+另外还需要注意的是，当我们要使用sqrt函数时，除了我们以前使用的stdio.h，还需要在代码的顶部添加另一个头文件：
+
+#include <math.h>
+输入格式:
+一行，包含三角形3条边a、b、c（a+b>c,a+c>b,b+c>a）的边长，各数值中间用一个空格隔开。
+
+输出格式:
+输出三角形的面积，保留2位小数。
+
+输入样例:
+3 4 5
+输出样例:
+circumference = 12.00, area = 6.00
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+    double a,b,c;
+   
+    scanf("%lf %lf %lf",&a,&b,&c);
+    double circumference=a+b+c;
+    double s=0.5*circumference;
+    
+    
+    double area=sqrt(s*(s-a)*(s-b)*(s-c));
+    printf("circumference = %.2f, area = %.2f",circumference,area);
+    
+    
+    return 0;
+}
+
+
+
+
+要知道，计算机只能存储二进制数值，也就是说，计算机其实并不存储字符，我们使用的字符类型变量，实际上也是一个个的数值。
+
+一个字符对应的数值，叫做这个字符的ASCII码。例如，小写字母'a'的ASCII码为97，小写字母'b'的ASCII码为98，大写字母'A'的ASCII码为65，大写字母'C'的ASCII码为67，等等。
+
+换句话说，'a'就是97，'b'就是98，'A'就是65，'B'就是66，......
+
+当我们用C语言输出字符变量时，只是用格式控制符%c告诉计算机，要把一个数值按照其对应的字符的样子显示出来；反过来，你同样可以把字符类型的变量当作一个数值来处理，它们一样可以参与各种数学运算，也可以用数值类型的格式控制符输出为数值类型。
+
+输入格式:
+一个字符c。
+
+输出格式:
+c对应的ASCII码。
+
+输入样例:
+a
+输出样例:
+在这里给出相应的输出。例如：
+
+97
+
+
+#include<stdio.h>
+int main()
+{
+    char a;
+    scanf("%c",&a);
+    printf("%d",a);
+    return 0;
+}
+
+
+小明想造一台简单的加密机。这台机器的功能是把小明输入的字符加密后输出。
+加密规则如下（是的，小明才4岁，只学了abcde/ABCDE这几个大小写字母）：
+小明输入a，则机器输出b；
+小明输入b，则机器输出c；
+小明输入c，则机器输出d；
+小明输入d，则机器输出e；
+小明输入A，则机器输出B；
+小明输入B，则机器输出C；
+小明输入C，则机器输出D；
+小明输入D，则机器输出E；
+
+输入格式:
+一个a~d、或A~D范围内的字母
+
+输出格式:
+小明输入的字母的后继字母（如：a的后继是b，D的后继是E）。
+
+输入样例:
+a
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    char a;
+    scanf("%c",&a);
+    char b=a+1;
+    printf("%c",b);
+    return 0;
+}
+
+匆匆离开人群，你打开纸条，上面赫然写着五个数字：104, 101, 108, 108, 111。
+
+输入格式:
+无输入。
+
+输出格式:
+输出上面五个ASCII码对应的单词。
+
+输入样例:
+
+输出样例:
+hello
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    int a=104,b=101,c=108,d=108,e=111;
+    printf("%c%c%c%c%c%c",a,b,c,d,e);
+}
