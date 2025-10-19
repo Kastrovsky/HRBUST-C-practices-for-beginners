@@ -1,4 +1,4 @@
-# kaka 基于HUST 25级程序设计的某些作业答案参考（新手水题）https://pintia.cn
+# kaka 基于HRBUST 25级程序设计的某些作业答案参考（新手水题）https://pintia.cn
 HOMEWORK 1
 
 任务描述
