@@ -8,7 +8,7 @@ HOMEWORK 1
 
 输入样例: 127 输出样例: 177 7f
 
-#include using namespace std; int main() { int a; scanf("%d",&a); printf("%o %x",a,a); return 0; }
+#include using namespace std; int main() { int a; scanf("%d",&a); printf("%o %x",a,a); return 0; }#使用命名空间std进行包含；Int main() {Int a；scanf(“% d”等);printf (" % % x”,a, a);返回0;}
 
 从键盘分别输入一个char型、int型和double型变量的值。在每一行先输出变量的值，再输出该变量所占内存的字节数。
 
@@ -18,9 +18,9 @@ HOMEWORK 1
 
 输入样例: B 13 56.8 输出样例: B,1 13,4 56.800000,8
 
-#include using namespace std; int main() { char a; int b; double c; scanf("%c%d%lf",&a,&b,&c); printf("%c,%zu\n""%d,%zu\n""%06f,%zu",a,sizeof(a),b,sizeof(b),c,sizeof(c)); return 0; }
+#include using namespace std; int main() { char a; int b; double c; scanf("%c%d%lf",&a,&b,&c); printf("%c,%zu\n""%d,%zu\n""%06f,%zu",a,sizeof(a),b,sizeof(b),c,sizeof(c)); return 0; }#使用命名空间std进行包含；Int main(){字符a；int b;双c;scanf(“% c % d %低频”等,福利,等等);printf (" % c %祖茂堂\ n”“% d %祖茂堂\ n”“% 06 f %族”,a, sizeof (a), b, sizeof (b), c, sizeof (c));返回0;}
 
-HOMEWORK 2
+HOMEWORK 2   作业2
 
 计算两个整数A和B的乘积（-50000 ≤ A, B ≤ 50000）。
 
@@ -30,7 +30,7 @@ HOMEWORK 2
 
 输入样例: 2 6 输出样例: 12
 
-#include<stdio.h> int main() { long long A; long long B; scanf("%lld %lld",&A,&B); printf("%lld",A*B); return 0; }
+#include<stdio.h> int main() { long long A; long long B; scanf("%lld %lld",&A,&B); printf("%lld",A*B); return 0; }#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}
 
 7-24 利用边长求三角形面积 分数 3 作者 cjyoleon 单位 哈尔滨理工大学 公元前60年，古希腊工程师海伦在《度量论》中首次证明了一个利用三角形三边边长求得三角形面积的海伦公式（我国古代数学家秦九韶在《数书九章》（1247年）独立提出等价的三斜求积术）：
 
@@ -57,11 +57,11 @@ double x = 5.6; printf("%f\n", sqrt(x)); 另外还需要注意的是，当我们
 输入样例: 3 4 5 输出样例: circumference = 12.00, area = 6.00 #include<stdio.h> #include<math.h> int main() { double a,b,c;
 
 scanf("%lf %lf %lf",&a,&b,&c);
-double circumference=a+b+c;
-double s=0.5*circumference;
+double circumference=a+b+c;双周长=a b c；
+double s=0.5*circumference;双s = 0.5 *周长;
 
 
-double area=sqrt(s*(s-a)*(s-b)*(s-c));
+double area=sqrt(s*(s-a)*(s-b)*(s-c));双区=√*(年代)* (sb) * (s-c));
 printf("circumference = %.2f, area = %.2f",circumference,area);
 
 
@@ -84,7 +84,7 @@ return 0;
 
 97
 
-#include<stdio.h> int main() { char a; scanf("%c",&a); printf("%d",a); return 0; }
+#include<stdio.h> int main() { char a; scanf("%c",&a); printf("%d",a); return 0; }#include int main() {char a；scanf(“% c”等);printf (" % d”);返回0;}
 
 小明想造一台简单的加密机。这台机器的功能是把小明输入的字符加密后输出。 加密规则如下（是的，小明才4岁，只学了abcde/ABCDE这几个大小写字母）： 小明输入a，则机器输出b； 小明输入b，则机器输出c； 小明输入c，则机器输出d； 小明输入d，则机器输出e； 小明输入A，则机器输出B； 小明输入B，则机器输出C； 小明输入C，则机器输出D； 小明输入D，则机器输出E；
 
@@ -106,7 +106,7 @@ return 0;
 
 输出样例: hello
 
-#include using namespace std; int main() { int a=104,b=101,c=108,d=108,e=111; printf("%c%c%c%c%c%c",a,b,c,d,e); }
+#include using namespace std; int main() { int a=104,b=101,c=108,d=108,e=111; printf("%c%c%c%c%c%c",a,b,c,d,e); }#使用命名空间std进行包含；Int main() {Int a=104,b=101,c=108,d=108,e=111；printf (" % % % c % c % c % c, a, b, c, d, e);}
 
 
 HOMEWORK 3
@@ -175,7 +175,7 @@ int main()
 7
 
 #include<cstdio>
-using namespace std;
+using namespace std;   使用命名空间std；
 int main()
 {
     long long int n,x,y;
@@ -236,3 +236,43 @@ int main()
     }
     return 0;
 }  
+输入四个整数，要求按从小到大的顺序输出。
+
+输入格式:
+一行，包括4个整数，每个数之间用空格间隔。
+
+输出格式:
+一行，4个整数，用空格间隔，从小到大排序。
+
+输入样例:
+4 3 2 1
+
+
+#include<iostream>
+int main()
+{
+    int i,j,n=4;
+    int a[n];
+    for(i=0;i<=n-1;i++)
+    scanf("%d",&a[i]);
+    for(i=0;i<=n-1;i++)
+    {
+        for(j = 0; j <n - i-1; j++)
+        {
+            if(a[j]>a[j+1])
+        {
+        int m=a[j];
+        a[j]=a[j+1];
+        a[j+1]=m;
+        }
+     
+        }
+    }
+
+    for(i=0;i<n-1;i++)
+    {
+        printf("%d ",a[i]);
+    }
+    printf("%d", a[n-1]);
+    return 0;   返回0;
+}
