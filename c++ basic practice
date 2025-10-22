@@ -30,7 +30,7 @@ HOMEWORK 2   作业2
 
 输入样例: 2 6 输出样例: 12
 
-#include<stdio.h> int main() { long long A; long long B; scanf("%lld %lld",&A,&B); printf("%lld",A*B); return 0; }#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；A * B);;}
+#include<stdio.h> int main() { long long A; long long B; scanf("%lld %lld",&A,&B); printf("%lld",A*B); return 0; }#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；A * B);;}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；}#include int main() {long long A;long long long B；}
 
 7-24 利用边长求三角形面积 分数 3 作者 cjyoleon 单位 哈尔滨理工大学 公元前60年，古希腊工程师海伦在《度量论》中首次证明了一个利用三角形三边边长求得三角形面积的海伦公式（我国古代数学家秦九韶在《数书九章》（1247年）独立提出等价的三斜求积术）：
 
@@ -38,7 +38,7 @@ HOMEWORK 2   作业2
 
 其中a、b、c分别为三角形三边的边长；
 
-s= 2 1​(a+b+c)   S = 2 1 （a b c）s= 2 1 （a b c）
+s= 2 1​(a+b+c)   S = 2 1 （a b c）s= 2 1 （a b c）s= 2 1 (a b c)s= 2 1 (a b c)s= 2 1 （a b c）
 
 注：c语言中，可以用如下方式求x的平方根：
 
