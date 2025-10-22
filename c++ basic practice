@@ -1,4 +1,4 @@
-HOMEWORK 1
+HOMEWORK 1   作业1
 
 任务描述 本题目要求读入1个10进制正整数，然后分别以8进制和16进制形式输出。输出时不加前缀，其中以16进制形式输出数据时所有字母数字小写。
 
@@ -30,7 +30,7 @@ HOMEWORK 2   作业2
 
 输入样例: 2 6 输出样例: 12
 
-#include<stdio.h> int main() { long long A; long long B; scanf("%lld %lld",&A,&B); printf("%lld",A*B); return 0; }#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}
+#include<stdio.h> int main() { long long A; long long B; scanf("%lld %lld",&A,&B); printf("%lld",A*B); return 0; }#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；A * B);;}
 
 7-24 利用边长求三角形面积 分数 3 作者 cjyoleon 单位 哈尔滨理工大学 公元前60年，古希腊工程师海伦在《度量论》中首次证明了一个利用三角形三边边长求得三角形面积的海伦公式（我国古代数学家秦九韶在《数书九章》（1247年）独立提出等价的三斜求积术）：
 
@@ -38,7 +38,7 @@ HOMEWORK 2   作业2
 
 其中a、b、c分别为三角形三边的边长；
 
-s= 2 1​(a+b+c)
+s= 2 1​(a+b+c)   S = 2 1 （a b c）s= 2 1 （a b c）
 
 注：c语言中，可以用如下方式求x的平方根：
 
@@ -61,11 +61,11 @@ double circumference=a+b+c;双周长=a b c；
 double s=0.5*circumference;双s = 0.5 *周长;
 
 
-double area=sqrt(s*(s-a)*(s-b)*(s-c));双区=√*(年代)* (sb) * (s-c));
-printf("circumference = %.2f, area = %.2f",circumference,area);
+double area=sqrt(s*(s-a)*(s-b)*(s-c));双区=√*(年代)* (sb) * (s-c));双区=√*(年代)* (sb) * (s-c));双区=√*（年代）* (sb) *(s-c))；
+printf("circumference = %.2f, area = %.2f",circumference,area);Printf (“circumference = %. ”2f，面积= %.2f"，周长，面积)；
 
 
-return 0;
+return 0;   返回0;
 }
 
 要知道，计算机只能存储二进制数值，也就是说，计算机其实并不存储字符，我们使用的字符类型变量，实际上也是一个个的数值。
@@ -84,7 +84,7 @@ return 0;
 
 97
 
-#include<stdio.h> int main() { char a; scanf("%c",&a); printf("%d",a); return 0; }#include int main() {char a；scanf(“% c”等);printf (" % d”);返回0;}
+#include<stdio.h> int main() { char a; scanf("%c",&a); printf("%d",a); return 0; }#include int main() {char a；scanf(“% c”等);printf (" % d”);返回0;}#include int main() {char a；scanf(“% c”等);printf (" % d”);返回0;}#include int main() {char a;scanf（“ % c ”等）；Printf (" % d ")；返回0；}
 
 小明想造一台简单的加密机。这台机器的功能是把小明输入的字符加密后输出。 加密规则如下（是的，小明才4岁，只学了abcde/ABCDE这几个大小写字母）： 小明输入a，则机器输出b； 小明输入b，则机器输出c； 小明输入c，则机器输出d； 小明输入d，则机器输出e； 小明输入A，则机器输出B； 小明输入B，则机器输出C； 小明输入C，则机器输出D； 小明输入D，则机器输出E；
 
@@ -94,7 +94,7 @@ return 0;
 
 输入样例: a
 
-#include using namespace std; int main() { char a; scanf("%c",&a); char b=a+1; printf("%c",b); return 0; }
+#include using namespace std; int main() { char a; scanf("%c",&a); char b=a+1; printf("%c",b); return 0; }#使用命名空间std进行包含；Int main(){字符a；scanf(“% c”等);Char b=a 1；printf (" % c、b);返回0;}
 
 匆匆离开人群，你打开纸条，上面赫然写着五个数字：104, 101, 108, 108, 111。
 
@@ -106,10 +106,10 @@ return 0;
 
 输出样例: hello
 
-#include using namespace std; int main() { int a=104,b=101,c=108,d=108,e=111; printf("%c%c%c%c%c%c",a,b,c,d,e); }#使用命名空间std进行包含；Int main() {Int a=104,b=101,c=108,d=108,e=111；printf (" % % % c % c % c % c, a, b, c, d, e);}
+#include using namespace std; int main() { int a=104,b=101,c=108,d=108,e=111; printf("%c%c%c%c%c%c",a,b,c,d,e); }#使用命名空间std进行包含；Int main() {Int a=104,b=101,c=108,d=108,e=111；printf (" % % % c % c % c % c, a, b, c, d, e);}#使用命名空间std进行包含；Int main() {Int a=104,b=101,c=108,d=108,e=111；printf (" % % % c % c % c % c, a, b, c, d, e);} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111; printf  (" % % % c % c % c % c, a, b, c, d, e);}
 
 
-HOMEWORK 3
+HOMEWORK 3   作业3
 
 7-8 数字加密
 分数 4
@@ -134,21 +134,21 @@ HOMEWORK 3
 1
 
 #include<cstdio>
-using namespace std;
+using namespace std;   使用命名空间std；
 int main()
 {
-    int a;
+    int a;   int;
     scanf("%d",&a);
-    if(a==9)
+    if(a==9)   如果(= = 9)
     {
     printf("%d",a-8);
     }
  
-    else
+    else   其他
     {
-        printf("%d",(a+2)%10);
+        printf("%d",(a+2)%10);   printf (" % d”,(2)% 10);
     }
-    return 0;
+    return 0;   返回0;
 }
 
 
@@ -178,23 +178,23 @@ int main()
 using namespace std;   使用命名空间std；
 int main()
 {
-    long long int n,x,y;
+    long long int n,x,y;   Long Long int n,x,y；
     scanf("%lld %lld %lld",&n,&x,&y);
-    if(n==0)
+    if(n==0)   如果(n = = 0)
     {
     printf("0");
     }
  
-    else
+    else   其他
     {
         if(y%x==0){
-        printf("%d",n-(y/x));
+        printf("%d",n-(y/x));   printf (" % d”,n - (y / x));
         }
-        else{
-            printf("%lld",n-(y/x)-1);
+        else{   其他{
+            printf("%lld",n-(y/x)-1);printf (" % lld”,n - (y / x) 1);
         }
     }
-    return 0;
+    return 0;   返回0;
 }
 
 
@@ -221,20 +221,20 @@ int main()
 0
 
 #include<cstdio>
-using namespace std;
+using namespace std;   使用命名空间std；
 int main()
 {
-    int a,b;
+    int a,b;   int a、b;
     scanf("%d %d",&a,&b);
     if((a<60&&b>=60)||(a>=60&&b<60))
     {
         printf("1");
     }
-    else
+    else   其他
     {
         printf("0");
     }
-    return 0;
+    return 0;   返回0;
 }  
 输入四个整数，要求按从小到大的顺序输出。
 
@@ -251,28 +251,115 @@ int main()
 #include<iostream>
 int main()
 {
-    int i,j,n=4;
-    int a[n];
-    for(i=0;i<=n-1;i++)
+    int i,j,n=4;   int i, j n = 4;
+    int a[n];   int [n];
+    for(i=0;i<=n-1;i++)   (我= 0;我)< = n - 1;
     scanf("%d",&a[i]);
-    for(i=0;i<=n-1;i++)
+    for(i=0;i<=n-1;i++)   (我= 0;我)< = n - 1;
     {
-        for(j = 0; j <n - i-1; j++)
+        for(j = 0; j <n - i-1; j++)For (j = 0; j 
         {
-            if(a[j]>a[j+1])
+            if(a[j]>a[j+1])   if(a[j]>a[j 1])
         {
-        int m=a[j];
-        a[j]=a[j+1];
-        a[j+1]=m;
+        int m=a[j];   int m = [j];
+        a[j]=a[j+1];   a[j]=a[j 1];
+        a[j+1]=m;   a[j 1]=m;
         }
      
         }
     }
 
-    for(i=0;i<n-1;i++)
+    for(i=0;i<n-1;i++)   (我< n - 1;我)= 0;
     {
-        printf("%d ",a[i]);
+        printf("%d ",a[i]);   printf (" % d”,[我]);
     }
-    printf("%d", a[n-1]);
+    printf("%d", a[n-1]);   printf (" % d”(n - 1));
+    return 0;   返回0;
+}
+
+
+
+
+
+7-13 出租车计价
+分数 5
+作者 沈睿
+单位 浙江大学
+本题要求根据某城市普通出租车收费标准编写程序进行车费计算。具体标准如下：
+
+起步里程为3公里，起步费10元；
+超起步里程后10公里内，每公里2元；
+超过10公里以上的部分加收50%的回空补贴费，即每公里3元；
+营运过程中，因路阻及乘客要求临时停车的，按每5分钟2元计收（不足5分钟则不收费）。
+输入格式:
+输入在一行中给出输入行驶里程（单位为公里，精确到小数点后1位）与等待时间（整数，单位为分钟），其间以空格分隔。
+
+输出格式:
+在一行中输出乘客应支付的车费（单位为元），结果四舍五入，保留到元。
+
+输入样例1:
+2.6 2
+输出样例1:
+10
+输入样例2:
+5.1 4
+输出样例2:
+14
+输入样例3:
+12.5 9
+输出样例3:
+34
+#include<cstdio>
+#include<cmath>
+int main()
+{
+    double s;//里程
+    long int w;//等待
+    int a=0;
+
+    scanf("%lf %ld",&s,&w);
+    if(0<=w&&w<5)//定义等待情况
+    {
+        a=0;
+        
+    }
+    else{
+        a=1;
+        
+    }
+    
+    double p=0.0;
+    switch(a)
+    {
+        case 0://不收等待费
+            if(s<=3){p=10.0;}
+            else
+            {
+                if(3<s&&s<=10)
+                {p=10.0+(s-3)*2.0;}
+                else
+                {
+                    p=24.0+(s-10)*3.0;
+                }
+            }
+            break;
+            
+        case 1://收等待费
+            int wait_fee = (w/5) * 2;
+            if(s<=3){p=10.0+wait_fee;}
+            else
+            {
+                if(3<s&&s<=10)
+                {p=10.0+(s-3)*2.0+wait_fee;}
+                else
+                {
+                    p=24.0+(s-10)*3.0+wait_fee;
+                }
+            }
+            break;
+    }
+    double fp=p+0.5;//the finall fee
+    long int ffp=fp;
+    printf("%ld",ffp);
     return 0;   返回0;
 }
