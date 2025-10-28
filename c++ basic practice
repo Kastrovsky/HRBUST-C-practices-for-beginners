@@ -30,7 +30,7 @@ HOMEWORK 2   作业2
 
 输入样例: 2 6 输出样例: 12
 
-#include<stdio.h> int main() { long long A; long long B; scanf("%lld %lld",&A,&B); printf("%lld",A*B); return 0; }#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；A * B);;}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；}#include int main() {long long A;long long long B；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；}#include int main() {long long A;long long long B；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{很久了；}#include int main() {long long A；long long long；
+#include<stdio.h> int main() { long long A; long long B; scanf("%lld %lld",&A,&B); printf("%lld",A*B); return 0; }#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；A * B);;}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；}#include int main() {long long A;long long long B；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；}#include int main() {long long A;long long long B；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{很久了；}#include int main() {long long A；long long long；#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；}#include int main() {long long A;long long long B；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{很久了；}#include int main() {long long A；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{很久了；}#include int main() {long long A；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{很久了；scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；A * b);} # include int主要(){长长的,长长的b; Scanf(“% LLD % LLD”等,福利);}# include int主要(){很久了;long long B；}#include int主要（）{很久了；}#include int main() {long long A;long long long；
 
 7-24 利用边长求三角形面积 分数 3 作者 cjyoleon 单位 哈尔滨理工大学 公元前60年，古希腊工程师海伦在《度量论》中首次证明了一个利用三角形三边边长求得三角形面积的海伦公式（我国古代数学家秦九韶在《数书九章》（1247年）独立提出等价的三斜求积术）：
 
@@ -84,7 +84,7 @@ return 0;   返回0;
 
 97
 
-#include<stdio.h> int main() { char a; scanf("%c",&a); printf("%d",a); return 0; }#include int main() {char a；scanf(“% c”等);printf (" % d”);返回0;}#include int main() {char a；scanf(“% c”等);printf (" % d”);返回0;}#include int main() {char a;scanf（“ % c ”等）；Printf (" % d ")；返回0；}#include int main() {char a；scanf(“% c”等);printf (" % d”);返回0;}#include int main() {char a;scanf（“ % c ”等）；Printf (" % d ")；返回0；}#include int main() {char a;scanf（“ % c ”等）；Printf (" % d ")；返回0；}#include int main() {char a；Printf (" % d ")；返回0；}
+#include<stdio.h> int main() { char a; scanf("%c",&a); printf("%d",a); return 0; }#include int main() {char a；scanf(“% c”等);printf (" % d”);返回0;}#include int main() {char a；scanf(“% c”等);printf (" % d”);返回0;}#include int main() {char a;scanf（“ % c ”等）；Printf (" % d ")；返回0；}#include int main() {char a；scanf(“% c”等);printf (" % d”);返回0;}#include int main() {char a;scanf（“ % c ”等）；Printf (" % d ")；返回0；}#include int main() {char a;scanf（“ % c ”等）；Printf (" % d ")；返回0；}#include int main() {char a；Printf (" % d ")；返回0；}#include int main() {char a；scanf(“% c”等);printf (" % d”);返回0;}#include int main() {char a;scanf（“ % c ”等）；Printf (" % d ")；返回0；}#include int main() {char a;scanf（“ % c ”等）；Printf (" % d ")；返回0；}#include int main() {char a；scanf(“% c”等),Printf (" % d”);返回0;}# include int主要(){char, scanf(“% c”等);Printf (" % d ")；返回0；}#include int main() {char a；scanf(“% c”等),Printf (" % d”);返回0;}# include int主要(){char;scanf(“% c”等),Printf (" % d”);返回0;}# include int主要(){char, Printf (" % d”);返回0;}#include int main() {char a；scanf(“% c”等);printf (" % d”);返回0;}#include int main() {char a;scanf（“ % c ”等）；Printf (" % d ")；返回0；}#include int main() {char a;scanf（“ % c ”等）；Printf (" % d ")；返回0；}#include int main() {char a；scanf(“% c”等),Printf (" % d”);返回0;}# include int主要(){char, scanf(“% c”等);Printf (" % d ")；返回0；}#include int main() {char a；scanf(“% c”等),Printf (" % d”);返回0;}# include int主要(){char;scanf(“% c”等),Printf (" % d”);返回0;}# include int主要(){char, Printf (" % d”);返回0;}# include int主要(){char, scanf(“% c”等);Printf (" % d ")；返回0；}#include int main() {char a；scanf(“% c”等),Printf (" % d”);返回0;}# include int主要(){char;scanf(“% c”等),Printf (" % d”);返回0;}# include int主要(){char, scanf(“% c”等),Printf (" % d”);返回0;}# include int主要（）{char, scanf（“ % c ”等）；Printf (" % d”);返回0;}# include int主要(){char, scanf(“% c”等),Printf (" % d”);返回0;}# include int主要（）{char；scanf（“ % c ”等），Printf (" % d ")；返回0；}# include int主要（）{char, Printf (" % d ")；返回0；}
 
 小明想造一台简单的加密机。这台机器的功能是把小明输入的字符加密后输出。 加密规则如下（是的，小明才4岁，只学了abcde/ABCDE这几个大小写字母）： 小明输入a，则机器输出b； 小明输入b，则机器输出c； 小明输入c，则机器输出d； 小明输入d，则机器输出e； 小明输入A，则机器输出B； 小明输入B，则机器输出C； 小明输入C，则机器输出D； 小明输入D，则机器输出E；
 
@@ -106,7 +106,7 @@ return 0;   返回0;
 
 输出样例: hello
 
-#include using namespace std; int main() { int a=104,b=101,c=108,d=108,e=111; printf("%c%c%c%c%c%c",a,b,c,d,e); }#使用命名空间std进行包含；Int main() {Int a=104,b=101,c=108,d=108,e=111；printf (" % % % c % c % c % c, a, b, c, d, e);}#使用命名空间std进行包含；Int main() {Int a=104,b=101,c=108,d=108,e=111；printf (" % % % c % c % c % c, a, b, c, d, e);} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111; printf  (" % % % c % c % c % c, a, b, c, d, e);}#使用命名空间std进行包含；Int main() {Int a=104,b=101,c=108,d=108,e=111；printf (" % % % c % c % c % c, a, b, c, d, e);} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111; printf  (" % % % c % c % c % c, a, b, c, d, e);} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111; printf  (" % % % c % c % c % c, a, b, c, d, e);} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111;Printf (" % % % c % c % c % c % c, a, b, c, d, e)；}
+#include using namespace std; int main() { int a=104,b=101,c=108,d=108,e=111; printf("%c%c%c%c%c%c",a,b,c,d,e); }#使用命名空间std进行包含；Int main() {Int a=104,b=101,c=108,d=108,e=111；printf (" % % % c % c % c % c, a, b, c, d, e);}#使用命名空间std进行包含；Int main() {Int a=104,b=101,c=108,d=108,e=111；printf (" % % % c % c % c % c, a, b, c, d, e);} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111; printf  (" % % % c % c % c % c, a, b, c, d, e);}#使用命名空间std进行包含；Int main() {Int a=104,b=101,c=108,d=108,e=111；printf (" % % % c % c % c % c, a, b, c, d, e);} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111; printf  (" % % % c % c % c % c, a, b, c, d, e);} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111; printf  (" % % % c % c % c % c, a, b, c, d, e);} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111;Printf (" % % % c % c % c % c % c, a, b, c, d, e)；}#使用命名空间std进行包含；Int main() {Int a=104,b=101,c=108,d=108,e=111；printf (" % % % c % c % c % c, a, b, c, d, e);} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111; printf  (" % % % c % c % c % c, a, b, c, d, e);} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111; printf  (" % % % c % c % c % c, a, b, c, d, e);} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111;printf   (" % % % c % c % c % c, a, b, c, d, e);} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111; printf  (" % % % c % c % c % c, a, b, c, d, e);} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111;Printf (" % % % c % c % c % c % c, a, b, c, d, e)；} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111;Printf (" % % % c % c % c % c % c, a, b, c, d, e)；} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111;Printf  (" % % % c % c % c % c % c, a, b, c, d, e);}
 
 
 HOMEWORK 3   作业3
@@ -137,7 +137,7 @@ HOMEWORK 3   作业3
 using namespace std;   使用命名空间std；
 int main()
 {
-    int a;   int;int;int;
+    int a;   int;int;int;int;int, int, int;int;int, int, int, int;Int, Int, Int；
     scanf("%d",&a);
     if(a==9)   如果(= = 9)
     {
@@ -146,7 +146,7 @@ int main()
  
     else   其他
     {
-        printf("%d",(a+2)%10);   printf (" % d”,(2)% 10);printf (" % d”,(2)% 10);Printf (" % d ",(2)% 10)；
+        printf("%d",(a+2)%10);   printf (" % d”,(2)% 10);printf (" % d”,(2)% 10);Printf (" % d ",(2)% 10)；printf (" % d”,(2)% 10);Printf (" % d ",(2)% 10)；Printf (" % d ",(2)% 10)；Printf (" % d ",(2)% 10)；
     }
     return 0;   返回0;
 }
@@ -178,7 +178,7 @@ int main()
 using namespace std;   使用命名空间std；
 int main()
 {
-    long long int n,x,y;   Long Long int n,x,y；Long Long int n,x,y；Long Long int n,x,y；
+    long long int n,x,y;   Long Long int n,x,y；Long Long int n,x,y；Long Long int n,x,y；Long Long int n,x,y；Long Long int n,x,y Long Long int n,x,y Long Long int n,x,y；
     scanf("%lld %lld %lld",&n,&x,&y);
     if(n==0)   如果(n = = 0)
     {
@@ -188,7 +188,7 @@ int main()
     else   其他
     {
         if(y%x==0){
-        printf("%d",n-(y/x));   printf (" % d”,n - (y / x));printf (" % d”,n - (y / x));Printf (" % d ",n - (y / x))；
+        printf("%d",n-(y/x));   printf (" % d”,n - (y / x));printf (" % d”,n - (y / x));Printf (" % d ",n - (y / x))；printf (" % d”,n - (y / x));Printf (" % d ",n - (y / x))；Printf (" % d ",n - (y / x))；Printf (" % d ",n - (y / x))；
         }
         else{   其他{
             printf("%lld",n-(y/x)-1);printf (" % lld”,n - (y / x) 1);printf (" % lld”,n - (y / x) 1);Printf (" % lld ",n - (y / x) 1)；
@@ -251,29 +251,29 @@ int main()
 #include<iostream>
 int main()
 {
-    int i,j,n=4;   int i, j n = 4;
-    int a[n];   int [n];
-    for(i=0;i<=n-1;i++)   (我= 0;我)< = n - 1;
+    int i,j,n=4;   int i, j n = 4;int i, j n = 4;Int i, j n = 4；
+    int a[n];   int [n];int [n];int [n];
+    for(i=0;i<=n-1;i++)   (我= 0;我)< = n - 1;for(i=0;i<=n-1;i  )   (我= 0;我)< = n - 1;
     scanf("%d",&a[i]);
-    for(i=0;i<=n-1;i++)   (我= 0;我)< = n - 1;
+    for(i=0;i<=n-1;i++)   (我= 0;我)< = n - 1;for(i=0;i<=n-1;i  )   (我= 0;我)< = n - 1;
     {
-        for(j = 0; j <n - i-1; j++)For (j = 0; j 
+        for(j = 0; j <n - i-1; j++)For (j = 0; j for(j = 0; j < i-1
         {
-            if(a[j]>a[j+1])   if(a[j]>a[j 1])
+            if(a[j]>a[j+1])   if(a[j]>a[j 1])if(a[j]>a[j 1])   if(a[j]>a[j 1])
         {
-        int m=a[j];   int m = [j];
-        a[j]=a[j+1];   a[j]=a[j 1];
-        a[j+1]=m;   a[j 1]=m;
+        int m=a[j];   int m = [j];int m = [j];m = [j]；
+        aa[j]=a[j 1];   a[j]=a[j 1];[j]=a[j+1];   a[j]=a[j 1];
+        a[j+1]=m;   a[j 1]=m;a[j 1]=m;   a[j 1]=m;
         }
      
         }
     }
 
-    for(i=0;i<n-1;i++)   (我< n - 1;我)= 0;
+    for(i=0;i<n-1;i++)   (我< n - 1;我)= 0;for(i=0;i
     {
-        printf("%d ",a[i]);   printf (" % d”,[我]);
+        printf("%d ",a[i]);   printf (" % d”,[我]);printf (" % d”,[我]);Printf (" % d "，[我])；
     }
-    printf("%d", a[n-1]);   printf (" % d”(n - 1));
+    printf("%d", a[n-1]);   printf (" % d”(n - 1));printf (" % d”(n - 1));Printf (" % d " (n - 1))；
     return 0;   返回0;
 }
 
@@ -315,51 +315,51 @@ int main()
 {
     double s;//里程
     long int w;//等待
-    int a=0;
+    int a=0;   int = 0;int = 0;Int = 0；
 
     scanf("%lf %ld",&s,&w);
     if(0<=w&&w<5)//定义等待情况
     {
-        a=0;
+        a=0;   = 0;= 0;= 0;
         
     }
-    else{
-        a=1;
+    else{   其他{
+        a=1;   = 1;= 1;= 1;
         
     }
     
-    double p=0.0;
-    switch(a)
+    double p=0.0;   双p = 0.0;
+    switch(a)   开关(a)
     {
         case 0://不收等待费
-            if(s<=3){p=10.0;}
+            if(s<=3){p=10.0;}   如果(s < = 3) {p = 10.0;}
             else   其他
             {
                 if(3<s&&s<=10)   如果(3 < s&&s < = 10)
-                {p=10.0+(s-3)*2.0;}   {p = 10.0 (s 3) * 2.0;}
+                {p=10.0+(s-3)*2.0;}   {p = 10.0 (s 3) * 2.0;}{p = 10.0 (s 3) * 2.0;} {p = 10.0 (s3) * 2.0；}
                 else   其他
                 {
-                    p=24.0+(s-10)*3.0;   p = 24.0 (s-10) * 3.0;
+                    p=24.0+(s-10)*3.0;   p = 24.0 (s-10) * 3.0;p = 24.0 (s-10) * 3.0;P = 24.0 (s-10) * 3.0；
                 }
             }
             break;   打破;
             
         case 1://收等待费
-            int wait_fee = (w/5) * 2;Int wait_fee = (w/5) * 2；
-            if(s<=3){p=10.0+wait_fee;}如果(s < = 3) {p = 10.0 wait_fee;}
+            int wait_fee = (w/5) * 2;Int wait_fee = (w/5) * 2；Int wait_fee = (w/5) * 2；Int wait_fee = (w/5) * 2；Int wait_fee = (w/5) * 2；Int wait_fee = (w/5) * 2；
+            if(s<=3){p=10.0+wait_fee;}如果(s < = 3) {p = 10.0 wait_fee;}如果(s < = 3) {p = 10.0 wait_fee;}如果（s < = 3） {p = 10.0；}
             else   其他
             {
                 if(3<s&&s<=10)   如果(3 < s&&s < = 10)
-                {p=10.0+(s-3)*2.0+wait_fee;}{p=10.0 (s-3)*2.0；}
+                {p=10.0+(s-3)*2.0+wait_fee;}{p=10.0 (s-3)*2.0；}{p=10.0 (s-3)*2.0；{p = 10.0 (s 3) * 2.0 wait_fee;} {p = 10.0 (s 3) * 2.0;} {p = 10.0 (s 3) * 2.0;
                 else   其他
                 {
-                    p=24.0+(s-10)*3.0+wait_fee;P =24.0 (s-10)*3.0 wait_fee；
+                    p=24.0+(s-10)*3.0+wait_fee;P =24.0 (s-10)*3.0 wait_fee；P =24.0 (s-10)*3.0 wait_fee；P =24.0 (s-10)*3.0 wait_fee；
                 }
             }
             break;   打破;
     }
     double fp=p+0.5;//the finall fee双fp=p 0.5；//最终费用
-    long int ffp=fp;   Long int ffp=fp；
+    long int ffp=fp;   Long int ffp=fp；Long int ffp=fp；Long int ffp=fp；
     printf("%ld",ffp);
     return 0;   返回0;
 }
@@ -387,13 +387,13 @@ int main()
 int main()
 {
     int n;
-    double sum=0.0;
+    double sum=0.0;   双金额= 0.0;
     scanf("%d",&n);  // 输入数组长度n
     
     int a[n];  // 声明长度为n的数组（变长数组，C99/C++扩展特性）
     
     // 输入数组元素并计算总和
-    for(int i=0;i<=n-1;i++)
+    for(int i=0;i<=n-1;i++)   For （i <=n-1;i）for（i <=n-1;i）
     {
         scanf("%d",&a[i]);  // 输入第i个元素
         sum=sum+a[i];       // 累加到总和
@@ -407,21 +407,21 @@ int main()
             if(a[j]>a[j+1])         // 如果前一个元素大于后一个
             {
                 int p=a[j];         // 交换两个元素的位置
-                a[j]=a[j+1];
-                a[j+1]=p;
+                a[j]=a[j+1];   a[j]=a[j 1];a[j]=a[j 1];   a[j]=a[j 1];
+                a[j+1]=p;   a[j 1]=p;
             }
         }
     }
     
     // 输出结果
-    printf("%d\n%d\n%.2f",a[n-1],a[0],sum/n);
+    printf("%d\n%d\n%.2f",a[n-1],a[0],sum/n);printf (" % d % d \ n \ n % .2f”,[n], [0], / n);
     // a[n-1]：排序后最后一个元素（最大值）
     // a[0]：排序后第一个元素（最小值）
     // sum/n：平均值，保留两位小数
     
     return 0;   返回0;
 }
-for(int j=0; j<=n-2-i; j++)
+for(int j=0; j<=n-2-i; j++)For (int j=0; j<=n-2-i；
 j=0：从数组的第一个元素开始
 
 j<=n-2-i：循环的终止条件
@@ -469,11 +469,107 @@ j <= 5-2-2 = 1，所以 j 从 0 到 1
 最后两个元素已经排好序
 
 可视化过程
-text
+text   文本
 初始: [5, 3, 8, 1, 2]
 
 i=0: 比较 j=0到3 → [3, 5, 1, 2, 8]  (8冒泡到最后)
 i=1: 比较 j=0到2 → [3, 1, 2, 5, 8]  (5冒泡到倒数第二)
 i=2: 比较 j=0到1 → [1, 2, 3, 5, 8]  (3冒泡到中间)
+
+
+
+
+
+输入一个正整数n（n ≤ 5000），输出(1, n)区间内，所有能整除n的数。
+如果该区间内没有能整除n的数，则输出“none.”。
+
+输入格式:
+一个正整数n（n ≤ 5000）。
+
+输出格式:
+输出(1, n)区间内，所有能整除n的数。每个数之间用空格分隔。如果该区间内没有能整除n的数，则输出“none.”。
+注意：最后一个数后面没有空格。
+
+#include <stdio.h>
+
+int main() {   Int main() {int main() {int main() {int main() {int main() {int main() {
+    int n;
+    scanf("%d", &n);   scanf(“% d”,n);
+    int found = 0; // 标记是否找到符合条件的数
+    for (int i = 2; i < n; i++)For （I = 2; I < n； I）
+    {
+        if (n % i == 0) （n % I == 0）
+        {
+            if (!found)    如果(!发现)
+            {
+                printf("%d", i);   printf (" % d”,我);
+                found = 1;   发现= 1；
+            } 
+            else    其他
+            {
+                printf(" %d", i);   Printf (" %d", i)；
+            }
+        }
+    }
+    if (!found) {   如果(!发现){
+        printf("none.");   printf(“。”);
+    }
+    printf("\n");
+    return 0;   返回0;
+}解释代码
+
+
+
+
+`found`变量在这段代码中起到了**多重关键作用**：
+
+## 1. **标记是否找到因子**
+```c
+int found = 0; // 标记是否找到符合条件的数
+```
+- 初始值设为0，表示**还没有找到**任何因子
+- 当找到第一个因子时，设置为1，表示**已经找到**了因子
+
+## 2. **控制输出格式**
+```c   ' ' ' c
+if (!found) {   如果(!发现){
+    printf("%d", i);    // 第一个因子：不加空格
+    found = 1;
+} else {
+    printf(" %d", i);   // 后续因子：前面加空格
+}
+```
+- **第一个因子**：直接打印，不加空格
+- **后续因子**：先打印空格，再打印数字
+
+## 3. **判断是否输出"none."**
+```c   ' ' ' c
+if (!found) {   如果(!发现){
+    printf("none.");   printf(“。”);printf(“。”);printf(" . ")；
+}
+```
+- 程序结束后检查found的值
+- 如果还是0，说明**一个因子都没找到**，输出"none."
+- 如果是1，说明**找到了至少一个因子**，不输出"none."
+
+## 实际运行示例
+
+**输入**: `12`
+- i=2时：found=0 → 输出"2"，found设为1
+- i=3时：found=1 → 输出" 3"
+- i=4时：found=1 → 输出" 4"  
+- i=6时：found=1 → 输出" 6"
+- **最终输出**: `2 3 4 6`
+
+**输入**: `13`（质数）
+- 循环中found始终为0
+- 程序结束后：found=0 → 输出"none."
+- **最终输出**: `none.`
+
+## 总结
+`found`变量是程序的核心控制逻辑，确保了：
+- ✅ 正确的输出格式（因子间有空格分隔）
+- ✅ 正确处理质数情况（输出"none."）
+- ✅ 清晰的程序逻辑流程
 i=3: 比较 j=0到0 → [1, 2, 3, 5, 8]  (2已经在正确位置)
 这种优化减少了不必要的比较，提高了冒泡排序的效率。
