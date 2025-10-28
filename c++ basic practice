@@ -30,7 +30,7 @@ HOMEWORK 2   作业2
 
 输入样例: 2 6 输出样例: 12
 
-#include<stdio.h> int main() { long long A; long long B; scanf("%lld %lld",&A,&B); printf("%lld",A*B); return 0; }#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；A * B);;}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；}#include int main() {long long A;long long long B；}
+#include<stdio.h> int main() { long long A; long long B; scanf("%lld %lld",&A,&B); printf("%lld",A*B); return 0; }#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；A * B);;}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；}#include int main() {long long A;long long long B；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；}#include int main() {long long A;long long long B；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{很久了；}#include int main() {long long A；long long long；
 
 7-24 利用边长求三角形面积 分数 3 作者 cjyoleon 单位 哈尔滨理工大学 公元前60年，古希腊工程师海伦在《度量论》中首次证明了一个利用三角形三边边长求得三角形面积的海伦公式（我国古代数学家秦九韶在《数书九章》（1247年）独立提出等价的三斜求积术）：
 
@@ -84,7 +84,7 @@ return 0;   返回0;
 
 97
 
-#include<stdio.h> int main() { char a; scanf("%c",&a); printf("%d",a); return 0; }#include int main() {char a；scanf(“% c”等);printf (" % d”);返回0;}#include int main() {char a；scanf(“% c”等);printf (" % d”);返回0;}#include int main() {char a;scanf（“ % c ”等）；Printf (" % d ")；返回0；}
+#include<stdio.h> int main() { char a; scanf("%c",&a); printf("%d",a); return 0; }#include int main() {char a；scanf(“% c”等);printf (" % d”);返回0;}#include int main() {char a；scanf(“% c”等);printf (" % d”);返回0;}#include int main() {char a;scanf（“ % c ”等）；Printf (" % d ")；返回0；}#include int main() {char a；scanf(“% c”等);printf (" % d”);返回0;}#include int main() {char a;scanf（“ % c ”等）；Printf (" % d ")；返回0；}#include int main() {char a;scanf（“ % c ”等）；Printf (" % d ")；返回0；}#include int main() {char a；Printf (" % d ")；返回0；}
 
 小明想造一台简单的加密机。这台机器的功能是把小明输入的字符加密后输出。 加密规则如下（是的，小明才4岁，只学了abcde/ABCDE这几个大小写字母）： 小明输入a，则机器输出b； 小明输入b，则机器输出c； 小明输入c，则机器输出d； 小明输入d，则机器输出e； 小明输入A，则机器输出B； 小明输入B，则机器输出C； 小明输入C，则机器输出D； 小明输入D，则机器输出E；
 
@@ -106,7 +106,7 @@ return 0;   返回0;
 
 输出样例: hello
 
-#include using namespace std; int main() { int a=104,b=101,c=108,d=108,e=111; printf("%c%c%c%c%c%c",a,b,c,d,e); }#使用命名空间std进行包含；Int main() {Int a=104,b=101,c=108,d=108,e=111；printf (" % % % c % c % c % c, a, b, c, d, e);}#使用命名空间std进行包含；Int main() {Int a=104,b=101,c=108,d=108,e=111；printf (" % % % c % c % c % c, a, b, c, d, e);} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111; printf  (" % % % c % c % c % c, a, b, c, d, e);}
+#include using namespace std; int main() { int a=104,b=101,c=108,d=108,e=111; printf("%c%c%c%c%c%c",a,b,c,d,e); }#使用命名空间std进行包含；Int main() {Int a=104,b=101,c=108,d=108,e=111；printf (" % % % c % c % c % c, a, b, c, d, e);}#使用命名空间std进行包含；Int main() {Int a=104,b=101,c=108,d=108,e=111；printf (" % % % c % c % c % c, a, b, c, d, e);} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111; printf  (" % % % c % c % c % c, a, b, c, d, e);}#使用命名空间std进行包含；Int main() {Int a=104,b=101,c=108,d=108,e=111；printf (" % % % c % c % c % c, a, b, c, d, e);} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111; printf  (" % % % c % c % c % c, a, b, c, d, e);} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111; printf  (" % % % c % c % c % c, a, b, c, d, e);} #使用命名空间性病进行包含,Int主要(){Int = 104, b = 101, c = 108, d = 108, e = 111;Printf (" % % % c % c % c % c % c, a, b, c, d, e)；}
 
 
 HOMEWORK 3   作业3
@@ -137,7 +137,7 @@ HOMEWORK 3   作业3
 using namespace std;   使用命名空间std；
 int main()
 {
-    int a;   int;
+    int a;   int;int;int;
     scanf("%d",&a);
     if(a==9)   如果(= = 9)
     {
@@ -146,7 +146,7 @@ int main()
  
     else   其他
     {
-        printf("%d",(a+2)%10);   printf (" % d”,(2)% 10);
+        printf("%d",(a+2)%10);   printf (" % d”,(2)% 10);printf (" % d”,(2)% 10);Printf (" % d ",(2)% 10)；
     }
     return 0;   返回0;
 }
@@ -178,7 +178,7 @@ int main()
 using namespace std;   使用命名空间std；
 int main()
 {
-    long long int n,x,y;   Long Long int n,x,y；
+    long long int n,x,y;   Long Long int n,x,y；Long Long int n,x,y；Long Long int n,x,y；
     scanf("%lld %lld %lld",&n,&x,&y);
     if(n==0)   如果(n = = 0)
     {
@@ -188,10 +188,10 @@ int main()
     else   其他
     {
         if(y%x==0){
-        printf("%d",n-(y/x));   printf (" % d”,n - (y / x));
+        printf("%d",n-(y/x));   printf (" % d”,n - (y / x));printf (" % d”,n - (y / x));Printf (" % d ",n - (y / x))；
         }
         else{   其他{
-            printf("%lld",n-(y/x)-1);printf (" % lld”,n - (y / x) 1);
+            printf("%lld",n-(y/x)-1);printf (" % lld”,n - (y / x) 1);printf (" % lld”,n - (y / x) 1);Printf (" % lld ",n - (y / x) 1)；
         }
     }
     return 0;   返回0;
@@ -333,33 +333,147 @@ int main()
     {
         case 0://不收等待费
             if(s<=3){p=10.0;}
-            else
+            else   其他
             {
-                if(3<s&&s<=10)
-                {p=10.0+(s-3)*2.0;}
-                else
+                if(3<s&&s<=10)   如果(3 < s&&s < = 10)
+                {p=10.0+(s-3)*2.0;}   {p = 10.0 (s 3) * 2.0;}
+                else   其他
                 {
-                    p=24.0+(s-10)*3.0;
+                    p=24.0+(s-10)*3.0;   p = 24.0 (s-10) * 3.0;
                 }
             }
-            break;
+            break;   打破;
             
         case 1://收等待费
-            int wait_fee = (w/5) * 2;
-            if(s<=3){p=10.0+wait_fee;}
-            else
+            int wait_fee = (w/5) * 2;Int wait_fee = (w/5) * 2；
+            if(s<=3){p=10.0+wait_fee;}如果(s < = 3) {p = 10.0 wait_fee;}
+            else   其他
             {
-                if(3<s&&s<=10)
-                {p=10.0+(s-3)*2.0+wait_fee;}
-                else
+                if(3<s&&s<=10)   如果(3 < s&&s < = 10)
+                {p=10.0+(s-3)*2.0+wait_fee;}{p=10.0 (s-3)*2.0；}
+                else   其他
                 {
-                    p=24.0+(s-10)*3.0+wait_fee;
+                    p=24.0+(s-10)*3.0+wait_fee;P =24.0 (s-10)*3.0 wait_fee；
                 }
             }
-            break;
+            break;   打破;
     }
-    double fp=p+0.5;//the finall fee
-    long int ffp=fp;
+    double fp=p+0.5;//the finall fee双fp=p 0.5；//最终费用
+    long int ffp=fp;   Long int ffp=fp；
     printf("%ld",ffp);
     return 0;   返回0;
 }
+
+
+
+
+程序功能
+输入一个整数n
+
+输入n个整数
+
+计算这些数的总和和平均值
+
+使用冒泡排序对数组进行升序排序
+
+输出最大值、最小值和平均值
+
+代码逐行解释
+
+
+#include<iostream>
+#include<cmath>
+
+int main()
+{
+    int n;
+    double sum=0.0;
+    scanf("%d",&n);  // 输入数组长度n
+    
+    int a[n];  // 声明长度为n的数组（变长数组，C99/C++扩展特性）
+    
+    // 输入数组元素并计算总和
+    for(int i=0;i<=n-1;i++)
+    {
+        scanf("%d",&a[i]);  // 输入第i个元素
+        sum=sum+a[i];       // 累加到总和
+    }
+    
+    // 冒泡排序（升序）
+    for(int i=0;i<=n-2;i++)         // 外层循环：需要n-1轮排序
+    {
+        for(int j=0;j<=n-2-i;j++)   // 内层循环：每轮比较相邻元素
+        {
+            if(a[j]>a[j+1])         // 如果前一个元素大于后一个
+            {
+                int p=a[j];         // 交换两个元素的位置
+                a[j]=a[j+1];
+                a[j+1]=p;
+            }
+        }
+    }
+    
+    // 输出结果
+    printf("%d\n%d\n%.2f",a[n-1],a[0],sum/n);
+    // a[n-1]：排序后最后一个元素（最大值）
+    // a[0]：排序后第一个元素（最小值）
+    // sum/n：平均值，保留两位小数
+    
+    return 0;   返回0;
+}
+for(int j=0; j<=n-2-i; j++)
+j=0：从数组的第一个元素开始
+
+j<=n-2-i：循环的终止条件
+
+j++：每次循环后j增加1
+
+条件 j<=n-2-i 的含义
+1. n-2 的原因：
+数组索引从0到n-1
+
+在比较 a[j] 和 a[j+1] 时，当 j = n-2 时：
+
+a[j] 是倒数第二个元素
+
+a[j+1] 是最后一个元素
+
+如果 j = n-1，那么 a[j+1] 就会越界访问不存在的元素
+
+2. -i 的原因（优化关键）：
+i 是外层循环的计数器，表示已经完成的排序轮数
+
+每完成一轮外层循环，最大的一个数就会"冒泡"到正确位置
+
+因此内层循环不需要再比较已经排好序的部分
+
+示例说明
+假设 n = 5，数组为：[5, 3, 8, 1, 2]
+
+第1轮 (i=0)：
+
+j <= 5-2-0 = 3，所以 j 从 0 到 3
+
+比较所有相邻元素
+
+第2轮 (i=1)：
+
+j <= 5-2-1 = 2，所以 j 从 0 到 2
+
+最后一个元素已经是最大值，不需要再比较
+
+第3轮 (i=2)：
+
+j <= 5-2-2 = 1，所以 j 从 0 到 1
+
+最后两个元素已经排好序
+
+可视化过程
+text
+初始: [5, 3, 8, 1, 2]
+
+i=0: 比较 j=0到3 → [3, 5, 1, 2, 8]  (8冒泡到最后)
+i=1: 比较 j=0到2 → [3, 1, 2, 5, 8]  (5冒泡到倒数第二)
+i=2: 比较 j=0到1 → [1, 2, 3, 5, 8]  (3冒泡到中间)
+i=3: 比较 j=0到0 → [1, 2, 3, 5, 8]  (2已经在正确位置)
+这种优化减少了不必要的比较，提高了冒泡排序的效率。
