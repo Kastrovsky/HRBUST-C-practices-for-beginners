@@ -30,7 +30,7 @@ HOMEWORK 2   作业2
 
 输入样例: 2 6 输出样例: 12
 
-#include<stdio.h> int main() { long long A; long long B; scanf("%lld %lld",&A,&B); printf("%lld",A*B); return 0; }#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；A * B);;}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；}#include int main() {long long A;long long long B；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；}#include int main() {long long A;long long long B；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{很久了；}#include int main() {long long A；long long long；#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；}#include int main() {long long A;long long long B；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{很久了；}#include int main() {long long A；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{很久了；}#include int main() {long long A；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{很久了；scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；A * b);} # include int主要(){长长的,长长的b; Scanf(“% LLD % LLD”等,福利);}# include int主要(){很久了;long long B；}#include int主要（）{很久了；}#include int main() {long long A;long long long；
+#include<stdio.h> int main() { long long A; long long B; scanf("%lld %lld",&A,&B); printf("%lld",A*B); return 0; }#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；A * B);;}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；}#include int main() {long long A;long long long B；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；}#include int main() {long long A;long long long B；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{很久了；}#include int main() {long long A；long long long；#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；}#include int main() {long long A;long long long B；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{很久了；}#include int main() {long long A；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{很久了；}#include int main() {long long A；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{很久了；scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；A * b);} # include int主要(){长长的,长长的b; Scanf(“% LLD % LLD”等,福利);}# include int主要(){很久了;long long B；}#include int主要（）{很久了；}#include int main() {long long A;long long long；#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；}#include int main() {long long A;long long long B；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{很久了；}#include int main() {long long A；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{很久了；}#include int main() {long long A；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{很久了；scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；} # include int主要（）{长长的，长长的#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);printf (" % lld”,A * B);返回0;}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；}#include int main() {long long A;long long long B；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{很久了；}#include int main() {long long A；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * B);；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){很久了;long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；}#include int main() {long long A;long long B;scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{很久了；}#include int main() {long long A；}#include int main() {long long A；long long B；scanf(“% lld % lld”等,福利);A * B);;} # include int主要(){长长的,长长的B; scanf(“% lld % lld”等,福利);A * b)；} # include int主要（）{很久了；scanf（“ % lld % lld ”等，福利）；A * b)；} # include int主要（）{长长的，长长的B；Scanf （“ % LLD % LLD ”等，福利）；} # include int主要（）{长长的，长长的
 
 7-24 利用边长求三角形面积 分数 3 作者 cjyoleon 单位 哈尔滨理工大学 公元前60年，古希腊工程师海伦在《度量论》中首次证明了一个利用三角形三边边长求得三角形面积的海伦公式（我国古代数学家秦九韶在《数书九章》（1247年）独立提出等价的三斜求积术）：
 
@@ -452,7 +452,7 @@ i 是外层循环的计数器，表示已经完成的排序轮数
 
 第1轮 (i=0)：
 
-j <= 5-2-0 = 3，所以 j 从 0 到 3
+j <= 5-2-0 = 3，所以 j 从 0 到 3int m = [j];m = [j]；m = [j]；M = [j]；
 
 比较所有相邻元素
 
@@ -492,27 +492,27 @@ i=2: 比较 j=0到1 → [1, 2, 3, 5, 8]  (3冒泡到中间)
 
 #include <stdio.h>
 
-int main() {   Int main() {int main() {int main() {int main() {int main() {int main() {
+int main() {   Int main() {int main() {int main() {int main() {int main() {int main() {int main() {int main() {int main() {int main() {int main（）
     int n;
     scanf("%d", &n);   scanf(“% d”,n);
     int found = 0; // 标记是否找到符合条件的数
-    for (int i = 2; i < n; i++)For （I = 2; I < n； I）
+    for (int i = 2; i < n; i++)For （I = 2; I < n； I）for （i = 2; i < n; i）
     {
-        if (n % i == 0) （n % I == 0）
+        if (n % i == 0) （n % I == 0）if (n % i == 0) （n % i == 0）
         {
             if (!found)    如果(!发现)
             {
-                printf("%d", i);   printf (" % d”,我);
+                printf("%d", i);   printf (" % d”,我);printf (" % d”,我);Printf （" % d "，我）；
                 found = 1;   发现= 1；
             } 
             else    其他
             {
-                printf(" %d", i);   Printf (" %d", i)；
+                printf(" %d", i);   Printf (" %d", i)；Printf (" %d", i)；Printf (" %d", i)；
             }
         }
     }
     if (!found) {   如果(!发现){
-        printf("none.");   printf(“。”);
+        printf("none.");   printf(“。”);printf(“。”);printf(" . ")；
     }
     printf("\n");
     return 0;   返回0;
@@ -524,17 +524,17 @@ int main() {   Int main() {int main() {int main() {int main() {int main() {int m
 `found`变量在这段代码中起到了**多重关键作用**：
 
 ## 1. **标记是否找到因子**
-```c
+```c   ' ' ' c
 int found = 0; // 标记是否找到符合条件的数
 ```
 - 初始值设为0，表示**还没有找到**任何因子
 - 当找到第一个因子时，设置为1，表示**已经找到**了因子
 
 ## 2. **控制输出格式**
-```c   ' ' ' c
+```c   ' ' ' c‘ ’ ‘ c ’ ' c
 if (!found) {   如果(!发现){
     printf("%d", i);    // 第一个因子：不加空格
-    found = 1;
+    found = 1;   发现= 1；
 } else {
     printf(" %d", i);   // 后续因子：前面加空格
 }
@@ -543,7 +543,7 @@ if (!found) {   如果(!发现){
 - **后续因子**：先打印空格，再打印数字
 
 ## 3. **判断是否输出"none."**
-```c   ' ' ' c
+```c   ' ' ' c‘ ’ ‘ c ’ ' c
 if (!found) {   如果(!发现){
     printf("none.");   printf(“。”);printf(“。”);printf(" . ")；
 }
@@ -573,3 +573,31 @@ if (!found) {   如果(!发现){
 - ✅ 清晰的程序逻辑流程
 i=3: 比较 j=0到0 → [1, 2, 3, 5, 8]  (2已经在正确位置)
 这种优化减少了不必要的比较，提高了冒泡排序的效率。
+
+
+
+
+
+7-4 整数反转
+分数 5
+作者 cjyoleon
+单位 哈尔滨理工大学
+输入一个正整数，反转该数。
+
+输入格式:
+一个正整数n(1 ≤ n ≤ 100000）。
+
+输出格式:
+输出反转n后的数。
+
+7-4 整数反转
+分数 5
+作者 cjyoleon
+单位 哈尔滨理工大学
+输入一个正整数，反转该数。
+
+输入格式:
+一个正整数n(1 ≤ n ≤ 100000）。
+
+输出格式:
+输出反转n后的数。
